@@ -7,7 +7,7 @@ settings:
 dependencies:
   '@cloudflare/workers-types':
     specifier: ^4.20231002.0
-    version: 4.20231002.0
+    version: 4.20240405.0
   '@fortawesome/fontawesome-svg-core':
     specifier: ^6.2.1
     version: 6.4.2
@@ -278,8 +278,8 @@ packages:
     requiresBuild: true
     optional: true
 
-  /@cloudflare/workers-types@4.20231002.0:
-    resolution: {integrity: sha512-gQMKf3THqAFWH426OXXfVx0gFLXiSiL2fo6mKjQYx4PU74MgmVDFh25NvpAIBK+XN+xXlrImClfYeqErXIT7jA==}
+  /@cloudflare/workers-types@4.20240405.0:
+    resolution: {integrity: sha512-sEVOhyOgXUwfLkgHqbLZa/sfkSYrh7/zLmI6EZNibPaVPvAnAcItbNNl3SAlLyLKuwf8m4wAIAgu9meKWCvXjg==}
     dev: false
 
   /@cspotcode/source-map-support@0.8.1:
